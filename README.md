@@ -15,7 +15,7 @@ Decrypt Password Of Authme-SHA256 (Minecraft Servers)
 
 ⌨ __python3 BreakPoint.py (hash) (wordlist)__
   
-**Example**
+# 🧰 __Example__
 
 💣 **python3 BreakPoint.py $SHA$71a148f46d0ac5bb$a82ade65c0a3160e5120f1967ede59ca3fd8028e70596e10d8f86cd78c00b8ba rockyou.txt**
 
