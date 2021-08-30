@@ -1,4 +1,4 @@
-# 🔓 __Authme-Sha256__
+# 🔓 __Authme-SHA256__
 🔑 __Decrypt Password Of Authme-SHA256 (Minecraft Servers)__
 
 ****
