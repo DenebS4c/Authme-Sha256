@@ -7,7 +7,7 @@ Decrypt Password Of Authme-SHA256 (Minecraft Servers)
 ![image](https://cdn.discordapp.com/attachments/866008934213222460/882003904060092527/unknown.png)
 
 ****
-# __💎 How to use__
+# __💎 How To Use__
 
 ![image](https://cdn.discordapp.com/attachments/866008934213222460/882003735956553758/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/866008934213222460/882003556637503558/unknown.png)
@@ -17,7 +17,7 @@ Decrypt Password Of Authme-SHA256 (Minecraft Servers)
   
 # 🧰 __Example__
 
-💣 **python3 BreakPoint.py $SHA$71a148f46d0ac5bb$a82ade65c0a3160e5120f1967ede59ca3fd8028e70596e10d8f86cd78c00b8ba rockyou.txt**
+💣 __python3 BreakPoint.py $SHA$71a148f46d0ac5bb$a82ade65c0a3160e5120f1967ede59ca3fd8028e70596e10d8f86cd78c00b8ba rockyou.txt__
 
 ****
 # 📞 __CONTACT__
