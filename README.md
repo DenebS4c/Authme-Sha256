@@ -1,5 +1,5 @@
-# Authme-Sha256
-Decrypt Password Of Authme-SHA256 (Minecraft Servers)
+# 🔓 __Authme-Sha256__
+🔑 __Decrypt Password Of Authme-SHA256 (Minecraft Servers)__
 
 ****
 
@@ -20,6 +20,12 @@ Decrypt Password Of Authme-SHA256 (Minecraft Servers)
 # 🧰 __Example__
 
 💣 __python3 BreakPoint.py $SHA$71a148f46d0ac5bb$a82ade65c0a3160e5120f1967ede59ca3fd8028e70596e10d8f86cd78c00b8ba rockyou.txt__
+
+****
+
+# 📃 __My Wordlist__
+
+🧨 __https://anonfiles.com/zfxfPaEcu2/rockyou_txt__
 
 ****
 # 📞 __CONTACT__
