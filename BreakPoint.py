@@ -80,12 +80,12 @@ hash = sys.argv[1]
 wordlist = sys.argv[2]
 try:
     hash2 = hash.split("$", 16)
-    hash = hash2[3]
-    salt = hash2[2]
+    hash = hash2[2]
+    salt = hash2[1]
 except:
     hash2 = hash.split("$", 10)
-    hash = hash2[3]
-    salt = hash2[2]
+    hash = hash2[2]
+    salt = hash2[1]
 
 # [+]==================[Arguments]==================[+]
 
